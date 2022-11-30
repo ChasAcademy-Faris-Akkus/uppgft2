@@ -1,0 +1,41 @@
+{
+    "cvTitle": "Faris Akkus",
+    "kompetensTitle": "Erfarenhet",
+    "kompetens": [
+        "Svenska <br> Engelska <br> Kurdiska"
+    ],
+    "infoTitle": "Kontakt",
+    "infoArr": [
+        {
+            "question": "Adress: ",
+            "answer": "Flygfältsvägen 7, 177 45 Järfälla"
+        },
+        {
+            "question": "Email: ",
+            "answer": "farisakkus@gmail.com"
+        },
+        {
+            "question": "Tel: ",
+            "answer": "0738068554"
+        }
+    ],
+    "omMigH2": "Om Mig",
+    "omMigP": "Faris Akkus heter jag och är 33 år gammal, jag är en teknik intresserad man som arbetar som processoperatör på ett företag som tillverkar mikro elektriska komponeter. Här tillverkar vi framtidens chip som finns i alla dagens elektroniska produkter. På fritiden sysslar jag med programmering, media och ett stort intresse för fotboll. Jag umgås främst med familj och är nybliven pappa till en flicka på 5 månader. ",
+    "minaErfH2": "Mina Erfarenheter",
+    "jobb1": {
+        "jobb": "Processoperatör, Silex Microsystems",
+        "datum": "Juni 2019 - pågående",
+        "desc": "Jag arbetar med utrustningar som tillverkar halvledare, vi tillverkar micro elektroniska mekaniska komponenter som finns inom all slags elektronik, från ultraljudschip till röntengenchip"
+    },
+    "jobb2": {
+        "jobb": "Tekniker, Svenska Larm AB",
+        "datum": "januari 2017 — juni 2018",
+        "desc": "Jag arbetade som tekniker där vi underhöll och installerade larm, skyddsutrutningar, brandlarm och övervakningssystem."
+    },
+    "school": {
+        "titel": "Gymnasium",
+        "h2": "Gymnasieexamen",
+        "date": "aug 2005 - juni 2008",
+        "desc": "Jag studera Samhälle och ekonomi med specialisering inom handel."
+    }
+}
